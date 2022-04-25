@@ -1,0 +1,5 @@
+*.csv
+MNIST
+.ipynb_checkpoints
+.DS_STORE
+__pycache__
